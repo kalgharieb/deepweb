@@ -1,0 +1,6 @@
+@deepweb_HostAddress = http://localhost:5227
+
+GET {{deepweb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
